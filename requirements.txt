@@ -1,0 +1,9 @@
+gradio
+fastapi
+requests
+beautifulsoup4
+transformers
+torch
+gtts
+textblob
+uvicorn
